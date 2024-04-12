@@ -8,7 +8,7 @@ Free subdomains for personal sites, open-source projects, and more.
 
 # 📝 Register
 ### 🌐 Supported Domains
-- [is-a-fullstack.dev](https://is-a-fullstack.dev)
+- [is-a-fullstack.dev](https://network.com)
 
 ## 📜 Getting Started
 1. Check if your desired domain is available using our [domain checker](https://free-domains.github.io/check).
