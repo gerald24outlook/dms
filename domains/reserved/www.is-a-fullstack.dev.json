@@ -1,0 +1,10 @@
+{
+    "domain": "network.dev",
+    "subdomain": "www",
+
+    "records": {
+        "CNAME": "network.dev"
+    },
+
+    "proxied": false
+}
